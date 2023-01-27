@@ -6,7 +6,7 @@
 
 -  Esse projeto surgiu a partir do desafio work experience da plataforma DevMedia. A proposta era simular uma experiência de trabalho em uma página web responsiva 🔥🚀 
 - #️⃣desafios #️⃣media query #️⃣carreira dev
-* **[Clínica Médica Life](https://helena-lujan-gomes.github.io/projeto-website-para-um-provedor-de-hospedagem/)**
+* **[Clínica Médica Life](https://helena-lujan-gomes.github.io/projeto-clinica-medica-life/)**
 
 
 
